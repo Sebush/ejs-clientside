@@ -1,0 +1,26 @@
+{
+  "name": "ejs-clientside",
+  "homepage": "https://github.com/Sebush/ejs-clientside",
+  "authors": [
+    "Sebastian Hähnlein <sebastian@jena-media.de>"
+  ],
+  "description": "ejs-template-engine client-side",
+  "main": "ejs.js",
+  "moduleType": [],
+  "keywords": [
+    "ejs",
+    "templateengine",
+    "template"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
